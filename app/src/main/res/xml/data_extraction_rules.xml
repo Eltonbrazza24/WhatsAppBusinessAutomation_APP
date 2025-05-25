@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- TODO: Define backup rules for your app -->
+        <!-- Example: <include domain="sharedpref" path="./"/> -->
+        <!-- Example: <exclude domain="file" path="./secret.txt"/> -->
+    </cloud-backup>
+    <device-transfer>
+        <!-- TODO: Define rules for device-to-device transfer -->
+        <!-- Example: <include domain="sharedpref" path="./"/> -->
+    </device-transfer>
+</data-extraction-rules>

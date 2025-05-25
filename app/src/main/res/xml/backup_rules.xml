@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- TODO: Define backup rules for your app -->
+    <!-- Example: <include domain="sharedpref" path="./"/> -->
+    <!-- Example: <exclude domain="file" path="./secret.txt"/> -->
+</full-backup-content>
